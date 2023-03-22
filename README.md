@@ -19,7 +19,7 @@
 </section>
 <section>
     <h2>Содержание репозитория:</h2>
-    <p>Репозиторий содержить 4 основных решения с подпроектами:
+    <p>Репозиторий содержит 4 основных решения с подпроектами:
         <ol>
             <li><a href="https://github.com/Chetverukhin/Windows_Forms_Bootcamp_Projects/tree/main/GeniyIdiot">Игра "Гений-Идиот"</a></li>
             <li><a href="https://github.com/Chetverukhin/Windows_Forms_Bootcamp_Projects/tree/main/BallGameWinFormsApp">Игры "Мячики"</a>
