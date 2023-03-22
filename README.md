@@ -19,7 +19,7 @@
 </section>
 <section>
     <h2>Содержание репозитория</h2>
-    <p>Репозиторий содержить 3 основных решения с подпроектами:
+    <p>Репозиторий содержить 4 основных решения с подпроектами:
         <ol>
             <li><a href="https://github.com/Chetverukhin/Windows_Forms_Bootcamp_Projects/tree/main/GeniyIdiot">Игра "Гений-Идиот"</a></li>
             <li><a href="https://github.com/Chetverukhin/Windows_Forms_Bootcamp_Projects/tree/main/BallGameWinFormsApp">Игры "Мячики"</a>
@@ -35,12 +35,4 @@
             <li><a href="https://github.com/Chetverukhin/Windows_Forms_Bootcamp_Projects/tree/main/Frogs">Логическая игра "Лягушки"</a></li>
         </ol>
     </p>
-    <ol>
-        <li>Создать оконные приложения на Windows Forms, для практического применения полученных знаний в ходе обучения;
-        </li>
-        <li>Изучить объектно-ориентированное программирование (ООП);</li>
-        <li>Научиться как хранить/шифровать свои данные, с готовой библиотекой Newtonsoft Json для работы с JSON;</li>
-        <li>Научитья отладке кода;</li>
-        <li>Научиться работе с системой контроля версий GITж;</li>
-    </ol>
 </section>
